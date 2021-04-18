@@ -5,4 +5,4 @@ It's a small game in which we have to choose three of the following :-
 3. Scissors ✂️
 
 
-and, after that computer also generate a random number of above.
+and, after that computer also generate a random number from above.
