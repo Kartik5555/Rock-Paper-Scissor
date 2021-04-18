@@ -11,15 +11,15 @@ and, after that computer also generate a random number from above.
 ### Lets taking an example
 When player chooses the **Rock** and then at the same time computer 
    * Generates the same ( *Rock* ) then the game will be \n
-          - Tie :bowtie: \n
+          > Tie :bowtie: \n
 
 
    * Generates Paper then \n
-          - you will lose! \n
-             - As **Paper** *covers* the **Rock** \n
+          > you will lose! \n
+             > As **Paper** *covers* the **Rock** \n
 
 
 
    * Generates **Scissors** then \n
-          - you will win! 🏆 \n
-             - As **Rock** *Smashes* the **Scissors** \n
+          > you will win! 🏆 \n
+             > As **Rock** *Smashes* the **Scissors** \n
