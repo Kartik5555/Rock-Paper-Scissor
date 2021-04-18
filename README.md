@@ -10,7 +10,7 @@ and, after that computer also generate a random number from above.
 
 ### Lets taking an example
 When player chooses the **Rock** and then at the same time computer 
-   1. Generates the same ( *Rock* ) then the game will be  <br>
+   * Generates the same ( *Rock* ) then the game will be  <br>
    > Tie :bowtie:
           
 
